@@ -1,5 +1,7 @@
 # bellScheduleApp
 This is an app that displays the day's schedule with start and end times for each period.
+![alt text](https://github.com/mbova24/bellScheduleApp/blob/master/img/Screenshot_20180731-154422.png "Logo Title Text 1")
+
 ## About
 This app was created for users to quickly see Pleasant Hill High School's daily schedule. Because the schedule changes based on the date, it is sometimes difficult to know what schedule we are on, unless notified by a teacher or staff member. This is intended for student use so that they can open the app on a mobile device and see the day's schedule. This is the first version of the app and only shows period start and end times.
 
